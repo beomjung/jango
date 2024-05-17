@@ -1,0 +1,8 @@
+.idea
+venv
+db.sqlte3
+__pycache__
+/staticfiles
+/mediafiles
+#mac
+#.DS_Store
